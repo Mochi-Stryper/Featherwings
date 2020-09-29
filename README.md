@@ -1,2 +1,2 @@
-# Featherwing
+# Featherwings
  Unlicensed Adafruit Peripherals
