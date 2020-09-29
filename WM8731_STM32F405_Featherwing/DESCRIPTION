@@ -1,0 +1,3 @@
+I2S Codec designed to connect to Adafruit's STM32F405 Feather via Cirrus Logic's WM8731
+Provides Stereo Audio In/Out, Headphone Amplifier, and Mic in with Gain control.
+Note: Airwire from LRCK on Feather to Featherwing
