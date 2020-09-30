@@ -1,2 +1,2 @@
 # Featherwings
- Unlicensed Adafruit Peripherals
+ Unlicensed and Unverified Adafruit Peripherals
